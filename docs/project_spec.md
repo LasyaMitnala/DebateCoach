@@ -348,17 +348,4 @@ Each stage must expose a defined input/output interface to support independent t
 
 Technology selections may change based on experimental performance, hardware requirements, and deployment cost.
 
----
 
-## 5. Data Specifications
-
-### 5.1 Standardized Argument Record
-
-Proposed JSON representation:
-
-```json
-{
-  "argument_id": "arg_001",
-  "topic": "School homework policies",
-  "stance": "opposition",
-  "text": "Homework should be banned
